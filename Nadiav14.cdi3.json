@@ -1,0 +1,786 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "Body X"
+		},
+		{
+			"Id": "AUGbodyY",
+			"GroupId": "",
+			"Name": "AUGbodyY"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "blendX_brazosdown",
+			"GroupId": "ParamGroup4",
+			"Name": "blendX_brazosdown"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup2",
+			"Name": "new_outfit"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "ala_up_down"
+		},
+		{
+			"Id": "fisicas_cambio",
+			"GroupId": "ParamGroup2",
+			"Name": "fisicas_cambio"
+		},
+		{
+			"Id": "R_polera_garras_up",
+			"GroupId": "ParamGroup2",
+			"Name": "R_polera_garras_up"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "ala_up_down123"
+		},
+		{
+			"Id": "L_ala",
+			"GroupId": "ParamGroup2",
+			"Name": "L_ala"
+		},
+		{
+			"Id": "R_ala",
+			"GroupId": "ParamGroup2",
+			"Name": "R_ala"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "fisicasopen/closv2222"
+		},
+		{
+			"Id": "ala_fisicasX1",
+			"GroupId": "ParamGroup2",
+			"Name": "ala_fisicasX1"
+		},
+		{
+			"Id": "ala_fisicasX2",
+			"GroupId": "ParamGroup2",
+			"Name": "ala_fisicasX2"
+		},
+		{
+			"Id": "ala_fisicasY1",
+			"GroupId": "ParamGroup2",
+			"Name": "ala_fisicasY1"
+		},
+		{
+			"Id": "Phone",
+			"GroupId": "ParamGroup3",
+			"Name": "Phone"
+		},
+		{
+			"Id": "phone_out",
+			"GroupId": "ParamGroup3",
+			"Name": "phone_out"
+		},
+		{
+			"Id": "capa_up_phone",
+			"GroupId": "ParamGroup3",
+			"Name": "capa_up_phone"
+		},
+		{
+			"Id": "BY_Phone",
+			"GroupId": "ParamGroup3",
+			"Name": "BdyY_phone"
+		},
+		{
+			"Id": "capa_phone_arreglo",
+			"GroupId": "ParamGroup3",
+			"Name": "capa_phone_arreglo"
+		},
+		{
+			"Id": "Outfit_Phone",
+			"GroupId": "ParamGroup3",
+			"Name": "outfit_Phone"
+		},
+		{
+			"Id": "PhoneLX",
+			"GroupId": "ParamGroup3",
+			"Name": "PhoneLX"
+		},
+		{
+			"Id": "PhoneRX2",
+			"GroupId": "ParamGroup3",
+			"Name": "PhoneRX"
+		},
+		{
+			"Id": "garras_input",
+			"GroupId": "ParamGroup",
+			"Name": "garras_input"
+		},
+		{
+			"Id": "hand_garra",
+			"GroupId": "ParamGroup",
+			"Name": "hand_garra"
+		},
+		{
+			"Id": "Rgarras_antebrazo_mano",
+			"GroupId": "ParamGroup",
+			"Name": "Rgarras_antebrazo_mano"
+		},
+		{
+			"Id": "Lgarras_antebrazo_mano2",
+			"GroupId": "ParamGroup",
+			"Name": "Lgarras_antebrazo_mano"
+		},
+		{
+			"Id": "L_garra2",
+			"GroupId": "ParamGroup",
+			"Name": "L_garra"
+		},
+		{
+			"Id": "capa_up_garras",
+			"GroupId": "ParamGroup",
+			"Name": "capa_up_garras"
+		},
+		{
+			"Id": "R_garra",
+			"GroupId": "ParamGroup",
+			"Name": "R_garra"
+		},
+		{
+			"Id": "Lgarra_up",
+			"GroupId": "ParamGroup",
+			"Name": "Lgarra_up"
+		},
+		{
+			"Id": "Rgarra_up",
+			"GroupId": "ParamGroup",
+			"Name": "Rgarra_up"
+		},
+		{
+			"Id": "wrist",
+			"GroupId": "ParamGroup",
+			"Name": "wrist"
+		},
+		{
+			"Id": "wristX",
+			"GroupId": "ParamGroup",
+			"Name": "wristX"
+		},
+		{
+			"Id": "R_handX",
+			"GroupId": "ParamGroup",
+			"Name": "R_handX"
+		},
+		{
+			"Id": "R_handY",
+			"GroupId": "ParamGroup",
+			"Name": "R_handY"
+		},
+		{
+			"Id": "L_handX",
+			"GroupId": "ParamGroup",
+			"Name": "L_handX"
+		},
+		{
+			"Id": "L_handY",
+			"GroupId": "ParamGroup",
+			"Name": "L_handY"
+		},
+		{
+			"Id": "pinky_OpenClose",
+			"GroupId": "ParamGroup",
+			"Name": "pinky_OpenClose"
+		},
+		{
+			"Id": "ringfinger_Openclose",
+			"GroupId": "ParamGroup",
+			"Name": "ringfinger_Openclose"
+		},
+		{
+			"Id": "middlefinger_Openclose2",
+			"GroupId": "ParamGroup",
+			"Name": "middlefinger_Openclose"
+		},
+		{
+			"Id": "index_Openclose3",
+			"GroupId": "ParamGroup",
+			"Name": "index_Openclose"
+		},
+		{
+			"Id": "thumb_Openclose4",
+			"GroupId": "ParamGroup",
+			"Name": "thumb_Openclose"
+		},
+		{
+			"Id": "HandRotation",
+			"GroupId": "ParamGroup",
+			"Name": "HandRotation"
+		},
+		{
+			"Id": "peloangleZ",
+			"GroupId": "",
+			"Name": "peloangleZ"
+		},
+		{
+			"Id": "cuelloZ",
+			"GroupId": "",
+			"Name": "cuelloZ"
+		},
+		{
+			"Id": "R_iris_fisica1",
+			"GroupId": "",
+			"Name": "R_iris_fisica1"
+		},
+		{
+			"Id": "R_iris_fisica2",
+			"GroupId": "",
+			"Name": "R_iris_fisica2"
+		},
+		{
+			"Id": "L_iris_fisica1",
+			"GroupId": "",
+			"Name": "L_iris_fisica1"
+		},
+		{
+			"Id": "L_iris_fisica2",
+			"GroupId": "",
+			"Name": "L_iris_fisica2"
+		},
+		{
+			"Id": "arosX",
+			"GroupId": "",
+			"Name": "arosX"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "iris_size",
+			"GroupId": "",
+			"Name": "iris_size"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "pucker",
+			"GroupId": "",
+			"Name": "pucker"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "mouth_silence"
+		},
+		{
+			"Id": "OpenMouthV2",
+			"GroupId": "",
+			"Name": "Mouth_OpenV2"
+		},
+		{
+			"Id": "A",
+			"GroupId": "",
+			"Name": "A"
+		},
+		{
+			"Id": "I",
+			"GroupId": "",
+			"Name": "I"
+		},
+		{
+			"Id": "U",
+			"GroupId": "",
+			"Name": "U"
+		},
+		{
+			"Id": "E",
+			"GroupId": "",
+			"Name": "E"
+		},
+		{
+			"Id": "O",
+			"GroupId": "",
+			"Name": "O"
+		},
+		{
+			"Id": "silence",
+			"GroupId": "",
+			"Name": "silence"
+		},
+		{
+			"Id": "MouthX",
+			"GroupId": "",
+			"Name": "MouthX"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "capaZ",
+			"GroupId": "",
+			"Name": "capaZ"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "garra_op",
+			"GroupId": "",
+			"Name": "garra_op"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "Hair Move Back"
+		},
+		{
+			"Id": "mechonesX1",
+			"GroupId": "",
+			"Name": "mechonesX1"
+		},
+		{
+			"Id": "mechonesX2",
+			"GroupId": "",
+			"Name": "mechonesX2"
+		},
+		{
+			"Id": "mechonesX3",
+			"GroupId": "",
+			"Name": "mechonesX3"
+		},
+		{
+			"Id": "MechonesY2",
+			"GroupId": "",
+			"Name": "mechonesY1"
+		},
+		{
+			"Id": "MechonesY3",
+			"GroupId": "",
+			"Name": "mechonesY1"
+		},
+		{
+			"Id": "MechonesY4",
+			"GroupId": "",
+			"Name": "mechonesY1"
+		},
+		{
+			"Id": "chasquilla1",
+			"GroupId": "",
+			"Name": "chasquilla1"
+		},
+		{
+			"Id": "chasquilla2",
+			"GroupId": "",
+			"Name": "chasquilla2"
+		},
+		{
+			"Id": "chasquillaY1",
+			"GroupId": "",
+			"Name": "chasquillaY1"
+		},
+		{
+			"Id": "chasquillaY2",
+			"GroupId": "",
+			"Name": "chasquillaY2"
+		},
+		{
+			"Id": "capaX1",
+			"GroupId": "",
+			"Name": "capaX1"
+		},
+		{
+			"Id": "capaX2",
+			"GroupId": "",
+			"Name": "capaX2"
+		},
+		{
+			"Id": "cintaX1",
+			"GroupId": "",
+			"Name": "cintaX1"
+		},
+		{
+			"Id": "cintaX2",
+			"GroupId": "",
+			"Name": "cintaX2"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "blendshapes_capa"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "NEW_OUTFIT"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Phone"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "garras"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part10",
+			"Name": "Nadia_v2.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part",
+			"Name": "Nadia_v2.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part18",
+			"Name": "Nadia_v2.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "alas",
+			"Name": "alas"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Nadia_v2.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Nadia_v2.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Nadia_v2.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "separado",
+			"Name": "separado"
+		},
+		{
+			"Id": "cpa_nueva_version",
+			"Name": "cpa_nueva_version"
+		},
+		{
+			"Id": "Folder2",
+			"Name": "Folder1"
+		},
+		{
+			"Id": "hand4",
+			"Name": "hand"
+		},
+		{
+			"Id": "Folder_phone",
+			"Name": "phone"
+		},
+		{
+			"Id": "separado2",
+			"Name": "separado"
+		},
+		{
+			"Id": "Folder1",
+			"Name": "Folder1"
+		},
+		{
+			"Id": "hand2",
+			"Name": "hand"
+		},
+		{
+			"Id": "extra2",
+			"Name": "extra"
+		},
+		{
+			"Id": "L_ojo",
+			"Name": "L_ojo"
+		},
+		{
+			"Id": "R_ojo",
+			"Name": "R_ojo"
+		},
+		{
+			"Id": "chasquilla",
+			"Name": "chasquilla"
+		},
+		{
+			"Id": "boca",
+			"Name": "boca"
+		},
+		{
+			"Id": "cabeza",
+			"Name": "cabeza"
+		},
+		{
+			"Id": "L_oreja",
+			"Name": "L_oreja"
+		},
+		{
+			"Id": "oreja",
+			"Name": "oreja"
+		},
+		{
+			"Id": "Part13",
+			"Name": "new_outfit"
+		},
+		{
+			"Id": "Part5",
+			"Name": "cuello_ropa"
+		},
+		{
+			"Id": "Part6",
+			"Name": "capa"
+		},
+		{
+			"Id": "ropa",
+			"Name": "ropa"
+		},
+		{
+			"Id": "Part16",
+			"Name": "cuellocapa"
+		},
+		{
+			"Id": "Part8",
+			"Name": "brazo_hand"
+		},
+		{
+			"Id": "Part4",
+			"Name": "capaback"
+		},
+		{
+			"Id": "L_pelotita_pelo",
+			"Name": "L_pelotita_pelo"
+		},
+		{
+			"Id": "pelotitas_pelo",
+			"Name": "pelotitas_pelo"
+		},
+		{
+			"Id": "Part14",
+			"Name": "L_ala"
+		},
+		{
+			"Id": "Part12",
+			"Name": "R_ala"
+		},
+		{
+			"Id": "pinkyv3",
+			"Name": "pinkyv2"
+		},
+		{
+			"Id": "ring2",
+			"Name": "ring"
+		},
+		{
+			"Id": "middle3",
+			"Name": "middle"
+		},
+		{
+			"Id": "index4",
+			"Name": "index"
+		},
+		{
+			"Id": "thumb4",
+			"Name": "thumb"
+		},
+		{
+			"Id": "openhand",
+			"Name": "openhand"
+		},
+		{
+			"Id": "pinkyv2",
+			"Name": "pinkyv2"
+		},
+		{
+			"Id": "ring",
+			"Name": "ring"
+		},
+		{
+			"Id": "middle",
+			"Name": "middle"
+		},
+		{
+			"Id": "index3",
+			"Name": "index"
+		},
+		{
+			"Id": "thumb7",
+			"Name": "thumb"
+		},
+		{
+			"Id": "Part3",
+			"Name": "cinta"
+		},
+		{
+			"Id": "Part11",
+			"Name": "capa_nueva"
+		},
+		{
+			"Id": "openhand2",
+			"Name": "openhand"
+		},
+		{
+			"Id": "hand",
+			"Name": "hand"
+		},
+		{
+			"Id": "armnolineartV2",
+			"Name": "armnolineartV"
+		},
+		{
+			"Id": "pinky2",
+			"Name": "pinky"
+		},
+		{
+			"Id": "ringfinger",
+			"Name": "ringfinger"
+		},
+		{
+			"Id": "middle_finger",
+			"Name": "middle_finger"
+		},
+		{
+			"Id": "index",
+			"Name": "index"
+		},
+		{
+			"Id": "Part17",
+			"Name": "palma1"
+		},
+		{
+			"Id": "reference",
+			"Name": "reference"
+		},
+		{
+			"Id": "thumb",
+			"Name": "thumb"
+		},
+		{
+			"Id": "armnolineartV",
+			"Name": "armnolineartV"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeROpen",
+			"ParamEyeRSmile"
+		]
+	]
+}

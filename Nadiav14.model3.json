@@ -1,0 +1,32 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Nadiav14.moc3",
+		"Textures": [
+			"Nadiav14.4096/texture_00.png"
+		],
+		"Physics": "Nadiav14.physics3.json",
+		"DisplayInfo": "Nadiav14.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"A",
+				"I",
+				"U",
+				"E",
+				"O"
+			]
+		}
+	]
+}
